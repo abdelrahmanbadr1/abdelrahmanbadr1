@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 Linked in : https://www.linkedin.com/in/abdelrahmanbadr101/
 Email : abdelrahmanbadr101@gmail.com
+- 👀 You Can also view my projects' videos on my Linked in profile :https://www.linkedin.com/in/abdelrahmanbadr101/ 
 
 <!---
 abdelrahmanbadr1/abdelrahmanbadr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on RPA Projects ...
 - 📫 How to reach me ...
 Linked in : https://www.linkedin.com/in/abdelrahmanbadr101/
+Email : abdelrahmanbadr101@gmail.com
 
 <!---
 abdelrahmanbadr1/abdelrahmanbadr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
